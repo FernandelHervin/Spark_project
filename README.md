@@ -4,8 +4,14 @@ TP SPARK EXOPLANET
 
 ## AUTHORS : Binome KAKEUH FOSSO Sidoine / KASA AKPO
 
-
 ## JOB SOURCE CODE
+
+##build.sbt
+/Spark_project-master/Projet_logistic_regression_scala/tp_spark/tp_spark/
+##project
+/Spark_project-master/Projet_logistic_regression_scala/tp_spark/tp_spark/project/
+##Job.scala
+/Spark_project-master/Projet_logistic_regression_scala/tp_spark/tp_spark/src/main/scala/com/sparkProject/
 
 Description
 
